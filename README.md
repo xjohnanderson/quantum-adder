@@ -1,5 +1,4 @@
-# quantum-adder
-Reversible adder for quantum computing
+
 # Quantum Ripple-Carry Adder
 A modular implementation of an N-bit Quantum Ripple-Carry Adder using Qiskit.
 
